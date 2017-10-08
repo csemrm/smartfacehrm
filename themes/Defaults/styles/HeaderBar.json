@@ -1,0 +1,10 @@
+{
+  ".headerBar": {
+    "title": "title",
+    "titleColor": "#ff0000",
+    "visible": true,
+    "backgroundColor": "#FFFFFF",
+    "font": {},
+    "flexProps": {}
+  }
+}
